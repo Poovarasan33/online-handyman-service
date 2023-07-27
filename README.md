@@ -1,1 +1,1 @@
-Online handyman service is used to book handymans and make a video call with them.
+The Online Handyman Service Platform is a web-based application that connects homeowners and property managers with skilled handymen to efficiently and conveniently handle various household repair and maintenance tasks. The platform aims to streamline the process of finding qualified and reliable handymen while offering a user-friendly experience for both customers and service providers.Online handyman service is used to book handymans and make a video call with them
